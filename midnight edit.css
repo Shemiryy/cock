@@ -23,9 +23,9 @@
 }
 
 .appMount-3lHmkl {
-	--theme-name: 'Midnight';
-	--theme-long-name: 'Midnight UI';
-	--theme-version: 'v1.9.2';
+	--theme-name: 'PP Hard';
+	--theme-long-name: 'PP Hard';
+	--theme-version: '69';
 }
 
 .theme-dark,
@@ -8031,7 +8031,7 @@ li[data-name*="Midnight"]:hover .scroller-wrap::after {
     border-top-color:var(--accent);
 }
 body::after {
-    content:'Midnight is currently undergoing a rewrite. Please excuse the broken elements in the theme. Settings button missing? Use CTRL + ,';
+    content:'DADDY';
     top:8px;
     width:100%;
     text-align:center;
